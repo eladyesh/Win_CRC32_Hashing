@@ -5,4 +5,4 @@ Also includes a YARA file to detect CRC32 hashing.
 An example run in my windows 10 vm -
 
 
-![crc_run][[(https://cdn.discordapp.com/attachments/911690681527967835/1071388164847063131/image.png)]
+![crc](https://user-images.githubusercontent.com/102996033/216764773-fddc3b93-68b4-495f-9c91-0a266fa72049.png)
